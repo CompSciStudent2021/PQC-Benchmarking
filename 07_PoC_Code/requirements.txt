@@ -1,7 +1,0 @@
-kyber-py
-dilithium-py
-pycryptodome
-cryptography
-numpy
-pandas
-matplotlib
